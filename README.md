@@ -15,4 +15,4 @@ Etapas:
 
 •	Apresentação visual dos resultados por meio de visualizações de dados.
 
-Banco de dados utilizado: [https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html]
+Banco de dados utilizado: https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html
